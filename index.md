@@ -1,5 +1,5 @@
 <link href="https://unpkg.com/@primer/css@^20.2.4/dist/primer.css" rel="stylesheet" />
-
+<html data-color-mode="dark" data-dark-theme="dark_dimmed">
 # PS2-Widescreen.github.io
 
 ## DSAD
